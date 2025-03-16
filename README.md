@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 Currently learning: Python, MySQL, and Artificial Intelligence concepts.<br>🌱 Interested in: Data Science and Machine Learning<br>🎯 Next step: Building AI-related projects to apply my knowledge.<br>💡 Ask me about: SQL, Python basics.<br>🚀 Short-term goal: Develop small AI models and improve my data analysis skills.<br>⚡Fun fact: I discovered AI when I asked ChatGPT a simple question… and three hours later, I was still reading about neural networks and how machines "think." Now I’m on a mission to build my own AI projects! 😆🤖
+🛠 Currently learning: Python, MySQL, and Artificial Intelligence concepts.<br>🌱 Interested in: Data Science and Machine Learning<br>🎯 Next step: Building AI-related projects to apply my knowledge.<br>💡 Ask me about: SQL, Python basics.<br>🚀 Short-term goal: Develop small AI models and improve my data analysis skills.
 
 
 ## 🌐 Socials:
@@ -12,12 +12,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Soorux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Saul) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soorux/Soorux/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soorux/Soorux/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soorux/Soorux/output/github-snake.svg" />
 </picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
