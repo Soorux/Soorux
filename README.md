@@ -1,5 +1,4 @@
 # 💫 About Me:
-🛠 Currently learning: Python, MySQL, and Artificial Intelligence concepts.<br>🌱 Interested in: Data Science and Machine Learning<br>🎯 Next step: Building AI-related projects to apply my knowledge.<br>💡 Ask me about: SQL, Python basics.<br>
 
 
 ## 🌐 Socials:
